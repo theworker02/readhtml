@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/readhtml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Read color html values and contrast-safe presentation helpers.",
+  "bin": {
+    "readhtml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/readhtml.git"
+  },
+  "homepage": "https://theworker02.github.io/readhtml/",
+  "keywords": [
+    "read",
+    "html",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
